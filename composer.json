@@ -1,7 +1,6 @@
 {
     "name": "rokkudo22/osmodel",
     "description": "manage os",
-    "version": "1.0.0",
     "type": "library",
     "license": "proprietary",
     "require": {
