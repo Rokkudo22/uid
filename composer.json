@@ -1,5 +1,5 @@
 {
-    "name": "rokkudo22/uid",
+    "name": "rokkudo22/osmodel",
     "type": "library",
     "description": "Symfony Uid component",
     "keywords": ["uid", "uuid"],
