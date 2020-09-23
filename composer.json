@@ -1,5 +1,5 @@
 {
-    "name": "symfony/uid",
+    "name": "rokkudo22/uid",
     "type": "library",
     "description": "Symfony Uid component",
     "keywords": ["uid", "uuid"],
